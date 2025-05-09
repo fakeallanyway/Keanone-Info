@@ -1,5 +1,5 @@
-# 🚀 Keanone Marketplace Platform
-
+# 🚀 Keanone Project
+# version: 0.1.0 (09.05.2025 | 23:00)
 <div align="center">
   <img src="public/images/logo.png" alt="Keanone Marketplace Logo" width="150"/>
   <br>
