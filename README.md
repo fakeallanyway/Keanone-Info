@@ -1,7 +1,7 @@
 # 🚀 Keanone Marketplace Platform
 
 <div align="center">
-  <img src="public/images/logo.svg" alt="Keanone Marketplace Logo" width="150"/>
+  <img src="public/images/logo.png" alt="Keanone Marketplace Logo" width="150"/>
   <br>
   <p><em>Современная платформа для цифровой коммерции</em></p>
   
